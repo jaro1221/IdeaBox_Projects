@@ -1,0 +1,2 @@
+﻿Poland;0,23;PLN
+Germany;0,19;EUR
