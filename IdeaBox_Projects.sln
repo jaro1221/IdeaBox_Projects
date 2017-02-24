@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_DistanceCalculator", "IB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_TaxCalculator", "IB_TaxCalculator\IB_TaxCalculator.csproj", "{503B6676-8999-4193-87D9-1CF2F2A55497}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_FactorialFinder", "IB_FactorialFinder\IB_FactorialFinder.csproj", "{B68044D2-8D16-472C-B541-D6A5920E7E9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{503B6676-8999-4193-87D9-1CF2F2A55497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{503B6676-8999-4193-87D9-1CF2F2A55497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{503B6676-8999-4193-87D9-1CF2F2A55497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68044D2-8D16-472C-B541-D6A5920E7E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68044D2-8D16-472C-B541-D6A5920E7E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68044D2-8D16-472C-B541-D6A5920E7E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68044D2-8D16-472C-B541-D6A5920E7E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
