@@ -94,7 +94,7 @@ namespace IB_CoinFlip
 
         private static void PrintCaption()
         {
-            Console.WriteLine("DistanceCalculator v. 0.1");
+            Console.WriteLine("CoinFlip v. 0.1");
             Console.WriteLine("Coded by imn1oy");
             Console.WriteLine("=========================");
         }
