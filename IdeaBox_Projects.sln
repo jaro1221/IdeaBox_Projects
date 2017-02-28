@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_FactorialFinder", "IB_Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_HappyNumbers", "IB_HappyNumbers\IB_HappyNumbers.csproj", "{40597150-BF83-40E0-BA56-3A229F8E8CF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_CoinFlip", "IB_CoinFlip\IB_CoinFlip.csproj", "{7AB6CC0D-9B6C-4625-937C-670FF5338F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{40597150-BF83-40E0-BA56-3A229F8E8CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40597150-BF83-40E0-BA56-3A229F8E8CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40597150-BF83-40E0-BA56-3A229F8E8CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB6CC0D-9B6C-4625-937C-670FF5338F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB6CC0D-9B6C-4625-937C-670FF5338F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB6CC0D-9B6C-4625-937C-670FF5338F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB6CC0D-9B6C-4625-937C-670FF5338F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
