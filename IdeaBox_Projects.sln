@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_CoinFlip", "IB_CoinFlip\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_RomanNumeral", "IB_RomanNumeral\IB_RomanNumeral.csproj", "{99A781CC-5C7E-4BC2-B6E8-C562184A0678}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_PrimeFactorization", "IB_PrimeFactorization\IB_PrimeFactorization.csproj", "{001D58C3-E8FC-4972-8061-661CF26F1417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{99A781CC-5C7E-4BC2-B6E8-C562184A0678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A781CC-5C7E-4BC2-B6E8-C562184A0678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A781CC-5C7E-4BC2-B6E8-C562184A0678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001D58C3-E8FC-4972-8061-661CF26F1417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001D58C3-E8FC-4972-8061-661CF26F1417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001D58C3-E8FC-4972-8061-661CF26F1417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001D58C3-E8FC-4972-8061-661CF26F1417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
